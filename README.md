@@ -82,7 +82,9 @@ Congratulations! You guessed the correct number.
 
 ## Author
 
+
 **John Aldrin Anasis**
 
 * GitHub: https://github.com/nexus1201
 * Portfolio: https://nexus1201.github.io/
+Project URL: https://roadmap.sh/projects/number-guessing-game
