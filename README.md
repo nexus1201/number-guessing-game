@@ -87,4 +87,4 @@ Congratulations! You guessed the correct number.
 
 * GitHub: https://github.com/nexus1201
 * Portfolio: https://nexus1201.github.io/
-Project URL: https://roadmap.sh/projects/number-guessing-game
+* Project URL: https://roadmap.sh/projects/number-guessing-game
